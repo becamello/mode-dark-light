@@ -102,36 +102,35 @@ body.dark {
 
 
 
-@media screen and (max-width:750px){
-
+@media screen and (max-width: 1300px) {
     * {
-        margin: 0px;
+        margin: 0;
+        padding: 0;
         box-sizing: border-box;
     }
 
+    body {
+        font-family: 'Roboto', sans-serif;
+    }
+
     .memoji {
-        width: 100vw;
-        height: 80vh;
-    
         display: flex;
-        flex-direction: row;
         justify-content: center;
         align-items: center;
         flex-wrap: wrap;
+        
     }
-    
+
     .memoji__img {
-        width: 15em;
-        margin-bottom: 5em;
+        width: 12em;
+        margin-left: 27px;
     }
 
     .texto__principal {
         font-family: 'Roboto', sans-serif;
         white-space: nowrap;
-        margin-left: 5em;
-        font-size: 10px;
-    
-        font-size: 40px;
-        transition: background-color 0.5s linear;
+        font-size: 27px;
+        margin: 0;
     }
-}  
+
+}
