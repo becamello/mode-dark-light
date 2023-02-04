@@ -118,7 +118,7 @@ body.dark {
         justify-content: center;
         align-items: center;
         flex-wrap: wrap;
-        
+        flex-direction: column;
     }
 
     .memoji__img {
