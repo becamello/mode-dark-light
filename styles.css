@@ -1,6 +1,4 @@
 :root {
-    -cor-de-fundo-Light: #E9E9E9;
-    --cor-de-fundo-Dark: #1E1E1E
     --label-icon: url(./img/moon.png);
 }
 
@@ -11,7 +9,7 @@
 }
 
 body {
-    background-color: var(--cor-de-fundo);
+    background-color: #E9E9E9;
     font-family: 'Roboto', sans-serif;
     font-family: 'Roboto Mono', monospace;
 
