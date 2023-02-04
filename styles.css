@@ -130,6 +130,7 @@ body.dark {
         font-family: 'Roboto', sans-serif;
         white-space: nowrap;
         font-size: 27px;
+        font-weight: bold;
         margin: 0;
     }
 
