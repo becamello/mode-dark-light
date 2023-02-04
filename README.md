@@ -5,7 +5,7 @@ Projeto desenvolvido para estudo das tecnologias HTML, CSS e JavaScript a fim de
 </p>
 
 <p align="center">
-  <img alt="projeto Dark/Light Mode" src=".github/capa.png" width="100%">
+  <img alt="projeto Dark/Light Mode" src="img/capa.png" width="100%">
 </p>
 
 ## 💻 Projeto
